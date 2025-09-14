@@ -1,0 +1,7 @@
+# Ignore everything in data by default
+*
+# But keep this .gitignore
+!.gitignore
+# Keep directory structure
+!raw/
+!processed/

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "2023–2024 NBA Player Stats: Playoffs Data Analysis"
+authors:
+  - family-names: "Shahidi"
+    given-names: "Ryan"
+date-released: "2025-09-14"
+version: "1.0.0"
+type: "report"
+license: "MIT"
+repository-code: "https://github.com/<your-username>/nba-playoffs-2023-2024-report"
