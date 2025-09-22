@@ -12,7 +12,7 @@ This repository contains the written report, project structure for reproducibili
 - **/docs/**: Any additional docs, exports, or images for the README
 
 ## 🌐 Interactive Dashboard
-Explore the Tableau dashboards here: [Tableau Public – NBA Playoffs Analysis](https://public.tableau.com/app/profile/ryan.shahidi8303/viz/NbaPlayoff2022-23Stats/Dashboard1)
+Explore the Tableau dashboards here: [Tableau Public – NBA Playoffs Analysis](https://public.tableau.com/views/NbaPlayoff2022-23Stats/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📄 Final report
 - **PDF**: [`report/2023-2024_NBA_Playoff_Performance_Analysis_Written_Report.pdf`](report/2023-2024_NBA_Playoff_Performance_Analysis_Written_Report.pdf)
