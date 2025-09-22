@@ -65,4 +65,5 @@ This repository is released under the **MIT License** (see `LICENSE`).
 ---
 
 **Author:** Ryan Shahidi  
-**Contact:** ryanshahidi04@gmail.com · https://github.com/rshahidi7 · www.linkedin.com/in/ryan-shahidi-39b705253
+📧 ryanshahidi04@gmail.com · 🔗 [LinkedIn](www.linkedin.com/in/ryan-shahidi-39b705253) · 🔗 [GitHub](https://github.com/rshahidi7)
+
